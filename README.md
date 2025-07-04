@@ -1,36 +1,96 @@
-<<<<<<< HEAD
-# neurogambling_scanner
+# 🧠 Neuro Gambling Scanner (Flutter App)
 
-A new Flutter project.
+The **Neuro Gambling Scanner** is a Flutter-based mobile application that uses AI to analyze gambling risk levels based on brain reactivity and behavior patterns. It helps users detect early signs of gambling addiction and provides personalized interventions.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 **Gambling Risk Prediction**
+  - Upload data files for AI-based risk classification (Low, Medium, High)
+- 🧠 **Personal Assessment Module**
+  - Interactive quizzes to assess gambling tendencies
+- 🛡️ **Personalized Interventions**
+  - Suggests cognitive-behavioral tips and prevention strategies
+- 🗂️ **History Tracking**
+  - Saves previous results for comparison and improvement tracking
+- 📄 **PDF Export**
+  - Export your reports and recommendations
+- 🔐 **Secure Authentication**
+  - Firebase-based login system
+- 🎨 **Modern UI**
+  - Clean design with intuitive navigation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Neuro Gambling Scanner (Flutter App)
+## 📷 Screenshots
 
-This is the Flutter-based frontend for the Neuro Gambling Scanner project. It allows users to:
-- Upload data to predict gambling risk
-- View history and real-time analysis
-- Receive interventions based on AI predictions
-- Perform personal assessments
+*(Add your app screenshots here)*
 
-## 🔧 Features
-- AI-based Risk Detection
-- Personal Assessment Module
-- Firebase Authentication
-- PDF Export of Results
-- Clean UI & Navigation
+```
 
+/assets/images/screenshot1.png
+/assets/images/screenshot2.png
 
+````
 
->>>>>>> 59200258889bdd2da1273fdad5f1bb654ff8976b
+---
+
+## 🔧 Tech Stack
+
+- **Flutter** & Dart
+- **Firebase** (Authentication, Firestore)
+- **Machine Learning API** (Python Flask API)
+- **PDF Export** (`pdf` & `printing` Flutter packages)
+
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites
+- Flutter SDK installed
+- Android Studio or VS Code
+- Firebase Project setup
+
+### Run the App
+
+```bash
+flutter pub get
+flutter run
+````
+
+### Folder Structure
+
+```
+/lib
+  ├── appFeatures/
+  ├── widgets/
+  ├── main.dart
+/assets
+/android
+/ios
+/web 
+```
+
+---
+
+## 📁 Important Files
+
+* `pubspec.yaml`: App dependencies
+* `README.md`: Project overview
+* `.gitignore`: Files to ignore in version control
+
+---
+
+## 📜 License
+
+This project is licensed for academic use only.
+
+---
+
+## 🙋‍♂️ Author
+
+**Muhammad Zain Mushtaq**
+[GitHub Profile](https://github.com/M-Z-5474)
+
+---
