@@ -29,7 +29,7 @@ The **Neuro Gambling Scanner** is a Flutter-based mobile application that uses A
 
 | 🏠 Home Screen | 📊 Prediction Result | 💡 Intervention Page |
 |----------------|----------------------|-----------------------|
-| ![Home](https://github.com/M-Z-5474/Neuro_Gambling_Scanner/tree/main/assets/screenshots/home.png?raw=true) | ![Result](https://github.com/M-Z-5474/Neuro_Gambling_Scanner/tree/main/assets/screenshots/result.png?raw=true) | ![Intervention](https://github.com/M-Z-5474/Neuro_Gambling_Scanner/tree/main/assets/screenshots/intervention.png?raw=true) |
+| ![Home](https://github.com/M-Z-5474/Neuro_Gambling_Scanner/tree/main/assets/screenshots/5.home.png?raw=true) | ![Result](https://github.com/M-Z-5474/Neuro_Gambling_Scanner/tree/main/assets/screenshots/result.png?raw=true) | ![Intervention](https://github.com/M-Z-5474/Neuro_Gambling_Scanner/tree/main/assets/screenshots/intervention.png?raw=true) |
 
 
 ---
