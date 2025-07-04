@@ -1,3 +1,4 @@
+
 # 🧠 Neuro Gambling Scanner (Flutter App)
 
 The **Neuro Gambling Scanner** is a Flutter-based mobile application that uses AI to analyze gambling risk levels based on brain reactivity and behavior patterns. It helps users detect early signs of gambling addiction and provides personalized interventions.
@@ -92,5 +93,11 @@ This project is licensed for academic use only.
 
 **Muhammad Zain Mushtaq**
 [GitHub Profile](https://github.com/M-Z-5474)
+📧 Email: m.zainmushtaq74@gmail.com
 
+🔗 LinkedIn: https://www.linkedin.com/in/muhammad-zain-m-a75163358/
+
+---
+
+## 🌟 If you like this project, please consider giving it a ⭐ on GitHub!
 ---
