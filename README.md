@@ -89,7 +89,8 @@ This project is licensed for academic use only.
 ## 🙋‍♂️ Author
 
 **Muhammad Zain Mushtaq**
-[GitHub Profile](https://github.com/M-Z-5474)
+
+[GitHub Profile] https://github.com/M-Z-5474
 
 📧 Email: m.zainmushtaq74@gmail.com
 
