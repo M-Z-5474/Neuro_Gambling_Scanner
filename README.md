@@ -90,7 +90,7 @@ This project is licensed for academic use only.
 
 **Muhammad Zain Mushtaq**
 
-[GitHub Profile] https://github.com/M-Z-5474
+🔗 GitHub: https://github.com/M-Z-5474
 
 📧 Email: m.zainmushtaq74@gmail.com
 
